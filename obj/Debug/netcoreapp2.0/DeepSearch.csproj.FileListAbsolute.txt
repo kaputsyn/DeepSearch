@@ -1,0 +1,11 @@
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\bin\Debug\netcoreapp2.0\DeepSearch.deps.json
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\bin\Debug\netcoreapp2.0\DeepSearch.runtimeconfig.json
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\bin\Debug\netcoreapp2.0\DeepSearch.runtimeconfig.dev.json
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\bin\Debug\netcoreapp2.0\DeepSearch.dll
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\bin\Debug\netcoreapp2.0\DeepSearch.pdb
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\obj\Debug\netcoreapp2.0\DeepSearch.csprojResolveAssemblyReference.cache
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\obj\Debug\netcoreapp2.0\DeepSearch.csproj.CoreCompileInputs.cache
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\obj\Debug\netcoreapp2.0\DeepSearch.AssemblyInfoInputs.cache
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\obj\Debug\netcoreapp2.0\DeepSearch.AssemblyInfo.cs
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\obj\Debug\netcoreapp2.0\DeepSearch.dll
+C:\Users\MVP\source\repos\DeepSearch\DeepSearch\obj\Debug\netcoreapp2.0\DeepSearch.pdb
